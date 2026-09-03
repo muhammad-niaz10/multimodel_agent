@@ -1,0 +1,17 @@
+# Base & API Framework
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# LangChain Ecosystem & Models
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# Tools & Web Scraping
+tavily-python
+beautifulsoup4
+requests
+lxml
